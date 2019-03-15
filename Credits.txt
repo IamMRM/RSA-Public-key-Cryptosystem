@@ -1,0 +1,9 @@
+a) Muhammad Roshan Mughees
+   193590
+   BSCS - 6A
+
+b) it actually encrypts text and decrypts it. firstly it assigns values to the alphabets then by formula encrypts it and then decrypts it to produce same result.
+
+c) i only face difficulty in P raised to power e term. cause the value was too big for the compiler.
+
+d) i love these projects. They seriously test our limits and ability.
